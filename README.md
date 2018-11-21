@@ -20,5 +20,6 @@ Command to application building in production mode.
 
 Command which build application on development mode and additionally run web server to view results. Use this command if you want to turn livereloading on.
 
+IMPORTANT: This workplace has jquery library installed too :D!
 
 
