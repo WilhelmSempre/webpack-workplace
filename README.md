@@ -22,4 +22,12 @@ Command which build application on development mode and additionally run web ser
 
 IMPORTANT: This workplace has jquery library installed too :D!
 
+Workplace has a svg loader! It creates svg sprites and contate it into one file.
+
+You can get it by this code:
+
+`<svg>
+   <use xlink:href="#idofsvg"></use>
+ </svg>`
+
 
