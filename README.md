@@ -2,7 +2,7 @@
 Author: Rafał Głuszak <rafal.gluszak@gmail.com>
 
 **Instructions:**
-- Clone this repository,
+- Fork and name this repository (type name of your project),
 - Run `npm install`
 - Enjoy!
 
