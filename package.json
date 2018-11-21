@@ -36,5 +36,5 @@
     "webpack-livereload-plugin": "^2.1.1",
     "webpack-subresource-integrity": "^1.3.0"
   },
-  "repository": "https://WilhelmSempre@bitbucket.org/WilhelmSempre/wilhelmsempreportfolio.git"
+  "repository": "https://github.com/WilhelmSempre/webpack-workplace.git"
 }
