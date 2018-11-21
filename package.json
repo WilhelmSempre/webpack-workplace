@@ -1,6 +1,6 @@
 {
   "name": "wilhelmsempre-webpack-workplace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Workplace for webpack",
   "scripts": {
     "build:dev": "node node_modules/webpack/bin/webpack.js --env.development --progress --profile --colors",
